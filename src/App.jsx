@@ -8,10 +8,6 @@ function App() {
     <main>
 
       <Header />
-
-      <UserInput />
-
-      <ResultsTable />
       
     </main>
   );
