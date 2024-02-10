@@ -5,11 +5,12 @@ import UserInput from "./components/UserInput";
 
 function App() {
   return (
-    <main>
+    <>
 
       <Header />
+      <UserInput />
       
-    </main>
+    </>
   );
 }
 
