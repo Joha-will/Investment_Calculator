@@ -1,4 +1,4 @@
-export default function ResultsTable() {
+export default function ResultsTable({ input }) {
 
     return (
         <table>
